@@ -2,7 +2,7 @@
 A measuring device for woodwind reeds to determine their properties in various ways.
 This data will be processed to evaluate what makes a reed play well.
 
-<h1>What does the device measure?</h1>
+<h1>What does the device do?</h1>
 The Reed Scanner measures various thicknesses using a laser TOF sensor. The weight of the reed is determined using a load cell, and the vibrational properties of the reed are determined with a piezoelectric disc to measure induced vibrations from a vibration motor probe. 
 
 <h1>The Model</h1>
